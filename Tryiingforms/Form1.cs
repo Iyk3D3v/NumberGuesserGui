@@ -70,7 +70,7 @@ namespace Tryiingforms
                     return;
                 }
             }
-            while (num < 3);
+            while (num < 4);
             num++;
             
 
