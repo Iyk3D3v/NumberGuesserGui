@@ -1,0 +1,9 @@
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\bin\Debug\Tryiingforms.exe.config
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\bin\Debug\Tryiingforms.exe
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\bin\Debug\Tryiingforms.pdb
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\obj\Debug\Tryiingforms.csprojResolveAssemblyReference.cache
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\obj\Debug\Tryiingforms.Form1.resources
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\obj\Debug\Tryiingforms.Properties.Resources.resources
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\obj\Debug\Tryiingforms.csproj.GenerateResource.Cache
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\obj\Debug\Tryiingforms.exe
+c:\users\ikechukwu\documents\visual studio 2015\Projects\Tryiingforms\Tryiingforms\obj\Debug\Tryiingforms.pdb
